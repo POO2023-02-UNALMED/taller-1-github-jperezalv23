@@ -3,4 +3,4 @@ Mi principal aspiracion con esta materia es poder aprender y desarrollarme en un
 
 Porque la carpeta ya no esta vacia. 
 
-Debemos tener cuidado al modificar dos archivos l mismo tiempo ya que podriamos crear un conflicto y es posible que los cambios que querramos hacer no queden guardados o se apliquen debido a los otros que es están queriendo realizar.
+Debemos tener cuidado al modificar dos archivos al mismo tiempo ya que podriamos crear un conflicto y es posible que los cambios que querramos hacer no queden guardados o se apliquen debido a los otros que es están queriendo realizar.
