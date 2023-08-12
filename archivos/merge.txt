@@ -1,2 +1,5 @@
-Juan Pablo Perez ALvarez, 18.
+Juan Pablo Perez Alvarez, 18.
 Mi principal aspiracion con esta materia es poder aprender y desarrollarme en un paradigma diferente de programacion tal como lo es el orientado a objetos, para poder implementarlo en la solucion de problemas mas complejos, a la vez que desaarrollo mis habilidades de trabajo en equipo y mejoro como programador en general.
+
+Porque la carpeta ya no esta vacia. 
+
